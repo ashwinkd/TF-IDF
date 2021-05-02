@@ -1,0 +1,8 @@
+## Ashwin Deshpande - 655640269
+TITLE = 'TITLE'
+TEXT = 'TEXT'
+CRANFIELD_TAGS = [TITLE, TEXT]
+CRANFIELD_ZONE_SCORE = [0.2, 0.8]
+CRANFIELD_DIRECTORY = './cranfieldDocs'
+QUERIES_PATH = './queries.txt'
+GOLD_SEARCH_RESULT_PATH = './relevance.txt'
